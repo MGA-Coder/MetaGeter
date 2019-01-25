@@ -4,8 +4,8 @@
     *
     * MetaGeter
     * > get any metatag from site Director or Content HTML
-    * @param meta 			<metatage name Like <title|description|keywords|article:title|article:auther| etc .... >
-    * @param WS_URL    		 site URL
+    * @param meta            <metatage name Like <title|description|keywords|article:title|article:auther| etc .... >
+    * @param WS_URL          site URL
     * @param WSContentHTML   HTML Site Content
     *
     * @return mixed
